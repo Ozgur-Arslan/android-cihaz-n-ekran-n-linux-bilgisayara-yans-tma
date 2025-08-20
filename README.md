@@ -1,2 +1,2 @@
-# android-cihaz-n-ekran-n-linux-bilgisayara-yans-tma
+# android cihazı linux-bilgisayara yansıtma
 Android Cihazı Linux Bilgisayara Yansıt
